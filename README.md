@@ -1,2 +1,2 @@
 # express-sequelize-mysql
-REST API with express, sequilize and mysql
+REST API with express, sequelize and mysql
